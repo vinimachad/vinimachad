@@ -1,16 +1,17 @@
-### Hi there 👋
+# Heyy 😊
 
-<!--
-**vinimachad/vinimachad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Have 18 years old born in Campo Grande, studying **Computer Science ⚛️** and I am extremely motivated to develop constantly mine skills and grow professionally 👨‍💻. I'm confident in my capacity of development on the part of **front-end**.
 
-Here are some ideas to get you started:
+### My Values
+👨‍💻 Job in Group
+🤯Constant Learning
+💨Deadline Projects
+💕Passionate about technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####  Technology
+🧡 HTML5
+💙 CSS3
+💛 Javascript
+💜 ReactJs
+💜 Redux
+💞 And some plugins of React
