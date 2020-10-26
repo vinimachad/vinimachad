@@ -13,5 +13,4 @@ Have 18 years old born in Campo Grande, studying **Computer Science ⚛️** and
 - 💙 CSS3
 - 💛 Javascript
 - 💜 ReactJs
-- 💜 Redux
 - 💞 And some plugins of React
