@@ -18,7 +18,7 @@ Have 18 years old born in Campo Grande, studying **Computer Science ⚛️** and
 ### Websites created for Companies 
 
 #### Denúncias James
-[Whistleblower website in Campo Grande](https://ergo-vitalis.netlify.app/)
+[Whistleblower website in Campo Grande](https://denuncias-app.netlify.app/)
 
 #### Ergo Vitalis
 [Physiotherapy company website](https://ergo-vitalis.netlify.app/)
