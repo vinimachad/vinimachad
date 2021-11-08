@@ -1,24 +1,26 @@
-# Heyy 😊
+# Olá, seja bem-vindo ao meu perfil 😊
 
-Have 18 years old born in Campo Grande, studying **Computer Science ⚛️** and I am extremely motivated to develop constantly mine skills and grow professionally 👨‍💻. I'm confident in my capacity of development on the part of **front-end**.
+Me chamo Vinicius Galhardo Machado, tenho 19 anos, curso **Ciencias da Computação ⚛️** e iniciei meus estudos em 2020 no desenvolvimento Web. Hoje trabalho com desenvolvimento iOS.
 
-### My Values
-- 👨‍💻 Job in Group
-- 🤯Constant Learning
-- 💨Deadline Projects
-- 💕Passionate about technology
+Me sinto confiante em dizer que hoje, Swift é umas das minhas linguagens favoritas e que mais domino, mas tendo muito o que aprender. Pra mim o importante é manter o constante aprendizado. E eu estou extremamente motivado a desenvolver constantemente minhas skills e crescer cada vez mais como dev iOS 👨‍💻.
 
-####  Technology
-- 🧡 HTML5
-- 💙 CSS3
-- 💛 Javascript
-- 💜 ReactJs
-- 💞 And some plugins of React
+Hoje trabalho com MVVM-C, delegate pattern e use cases. Na maioria dos projetos implementei testes unitários e testes de interface (snapshot). Além de ter familiaridade com metodologias ágeis (Kanban e Scrum) e com Code Review. Tendo utilizado git flow, no versionamento das aplicações, Fastlane e Bitrise na parte de CI/CD.
 
-### Websites created for Companies 
 
-#### Denúncias James
-[Whistleblower website in Campo Grande](https://denuncias-app.netlify.app/)
+### Meus valores
+- 👨‍💻 Trabalho em grupo
+- 🤯 Constante aprendizado
+- 💨 Prazos de projetos
+- 💕 Apaixonado por tecnologia 
 
-#### Ergo Vitalis
-[Physiotherapy company website](https://ergo-vitalis.netlify.app/)
+#### Tecnologia
+- Swift
+- XCTest
+- FBSnapshotTestCase
+- Moya
+- Coordinator
+- Delegate Pattern
+- Use cases
+- Bitrise
+- Firebase
+- Metodologias ágeis
