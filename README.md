@@ -22,5 +22,6 @@ Hoje trabalho com MVVM-C, delegate pattern e use cases. Na maioria dos projetos 
 - Delegate Pattern
 - Use cases
 - Bitrise
+- Fastlane
 - Firebase
 - Metodologias ágeis
